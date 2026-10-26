@@ -1,0 +1,9 @@
+{
+  "name": "ejemplo-slack",
+  "version": "1.0.0",
+  "description": "Practica de CI con GitHub Actions y Slack",
+  "main": "suma.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
